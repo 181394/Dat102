@@ -1,0 +1,5 @@
+4
+1#The Beatles#Day Tripper#1973#ROCK#EMI
+2#The Rolling Stones#Ruby Tuesday#1970#POP#HRT
+3#Bruce Springsteen#The River#1985#ROCK#nrbtevwd
+4#Foo Fighters#The Pretender#2007#ROCK#gbnisc
